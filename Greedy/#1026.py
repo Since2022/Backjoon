@@ -20,11 +20,14 @@
 # -출력
 # 첫째 줄에 S의 최솟값을 출력한다.
 
-# example input
+# -example input
 #
 # 5
 # 1 1 1 6 0
 # 2 7 8 3 1
+
+# -Solution
+# 가장 작은 수들의 합 = a의 가장 큰 수 * b의 가장 작은 수
 
 ans = 0
 
