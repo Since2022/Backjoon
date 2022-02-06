@@ -1,5 +1,5 @@
 # No. 1026
-# 제목
+# 보물
 # https://www.acmicpc.net/problem/1026
 
 # -문제
