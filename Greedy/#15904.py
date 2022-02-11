@@ -43,7 +43,8 @@
 # Union of Computer Programming Contest club contest
 
 # -Solution
-# check 1:1 and find it
+# check 1::wq
+# q1 and find it
 
 s = input()
 check = ['U', 'C', 'P', 'C']
