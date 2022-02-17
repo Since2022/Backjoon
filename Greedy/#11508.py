@@ -52,17 +52,3 @@ for i in range(n):
         ans += l[i]
 
 print(ans)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
