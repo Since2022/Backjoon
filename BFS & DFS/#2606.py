@@ -74,6 +74,6 @@ def dfs(v):
 
 dfs(1)
 
-print(len(visited)-1)
+print(len(visited) - 1)
 
 
